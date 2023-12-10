@@ -1,0 +1,9 @@
+[package]
+name = "evm-account-portfolio-report"
+version = "0.1.0"
+edition = "2021"
+description = "Helps in generating estimated value of all tokens of given account"
+repository = "https://github.com/yourarj/evm-account-portfolio-report"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
